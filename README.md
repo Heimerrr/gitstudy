@@ -22,6 +22,15 @@ branch reset
 branch updatesadas
 
 branauidhia
+asdasd
+asdas
+das
+dasd
+asd
+1
+2
+3
+4
 branch - commit -1
 branch - commit -2
 brancj - commit -3
