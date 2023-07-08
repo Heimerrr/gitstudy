@@ -15,7 +15,3 @@ branch -1
 main -1
 main -2
 main -3
-
-----------------merge and next---------
-
-main-1
